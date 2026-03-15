@@ -88,6 +88,8 @@ public class ColoredPip {
         this.secondIndex = secondIndex;
     }
 
+    //япи
+
     private ColoredPip(int index, String symbol) {
         setIndex(index % 5);
         setSymbol(symbol);
